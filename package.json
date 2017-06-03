@@ -1,0 +1,11 @@
+{
+  "name": "raspi",
+  "version": "0.0.0",
+  "description": "Home Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error - no test set up yet'"
+  },
+  "author": "kevindug",
+  "license": "ISC"
+}
